@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UDP-Redes-I</string>
+    <string name="title_cliente">Cliente</string>
+    <string name="title_mensagens">Mensagens</string>
+    <string name="msgDoInput">Digite aqui a msg</string>
+    <string name="rdb_post">POST</string>
+    <string name="rdb_get">GET</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="obter">obter</string>
+</resources>
