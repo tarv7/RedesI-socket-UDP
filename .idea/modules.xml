@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedesI-socket-UDP.iml" filepath="$PROJECT_DIR$/RedesI-socket-UDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/UDPRedesI.iml" filepath="$PROJECT_DIR$/UDPRedesI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

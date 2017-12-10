@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             s = new DatagramSocket();
-            s.setSoTimeout(1000);
+            s.setSoTimeout(5000);
             InetAddress local = InetAddress.getByName("192.241.139.196");
             int obj_length = obj.toString().length();
             byte[] message = obj.toString().getBytes();
